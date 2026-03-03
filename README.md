@@ -224,8 +224,3 @@ Admin capabilities:
 This application is private and not publicly accessible.
 It is developed for internal testing and portfolio demonstration purposes only.
 
----
-
-<div align="center">
-  Built with 💻 by <strong>Salah-Eddine Daghri</strong>
-</div>
