@@ -211,10 +211,18 @@ Admin capabilities:
 
 
 
+---
 
+🚧 Production Status
 
+The frontend was deployed on Vercel:
+https://hoodify-mu.vercel.app
 
+The backend API was hosted on a free-tier service. Due to the expiration of the free hosting plan, the backend is currently offline.
 
+For this reason, the live production version is not operational at the moment.
+
+The full application can still be run locally using Docker or manual setup as described above.
 
 
 ---
